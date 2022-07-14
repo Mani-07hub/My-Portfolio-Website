@@ -1,0 +1,206 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 50px;
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+  color: #001D6E;
+  line-height: normal;
+}
+
+h2 {
+  font-family: 'Secular One', sans-serif;
+  font-size: 30px;
+  color: #001D6E;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+p {
+  font-family: 'Secular One', sans-serif;
+  font-size: 20px;
+  color: #371B58;
+  line-height: 2;
+}
+
+hr {
+  border: dotted #646FD4 6px;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 25%;
+}
+
+a {
+  color: #11999E;
+  margin: 20px 20px;
+  text-decoration: none;
+  padding: 50px;
+}
+
+a:hover {
+  color: #11999E;
+}
+
+ul {
+  font-family: 'Secular One', sans-serif;
+  list-style-position: outside;
+  list-style-type: circle;
+  font-size: 20px;
+  line-height: 2;
+  color: #371B58;
+}
+
+.top-container {
+  background-color: #C4DDFF;
+  text-align: center;
+  font-family: 'Cormorant SC', serif;
+  padding: 10% 0 20%;
+}
+
+.middle-container {
+  background-color: #C4DDFF;
+  text-align: center;
+  font-family: 'Cormorant SC', serif;
+  line-height: 2;
+  padding: 10% 0 50%;
+}
+
+.bottom-container {
+  background-color: #001D6E;
+  text-align: center;
+  font-family: 'Secular One', sans-serif;
+  font-size: 20px;
+  padding: 100px 0 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  top: 100px;
+}
+
+.profile {
+  font-family: 'Cormorant SC', serif;
+  width: 60%;
+  margin: auto;
+  line-height: 2;
+  padding: 50px 50px;
+}
+
+.course {
+  font-family: 'Cormorant SC', serif;
+  width: 60%;
+  margin: auto;
+  line-height: 2;
+}
+
+.skills {
+  font-family: 'Cormorant SC', serif;
+  width: 60%;
+  margin: auto;
+  line-height: 2;
+  text-align: left;
+  padding: 30px 30px;
+}
+
+.interest {
+  font-family: 'Cormorant SC', serif;
+  width: 60%;
+  margin: auto;
+  line-height: 2;
+  text-align: left;
+  padding: 30px 30px;
+}
+
+.personal-traits {
+  font-family: 'Cormorant SC', serif;
+  width: 60%;
+  margin: auto;
+  line-height: 2;
+  text-align: left;
+  padding: 30px 30px;
+}
+
+.paper-presentation {
+  font-family: 'Cormorant SC', serif;
+  width: 60%;
+  margin: auto;
+  line-height: 2;
+  text-align: left;
+  padding: 30px 30px;
+}
+
+.profile-img {
+  width: 20%
+  padding: 20px 20px;
+}
+
+.course-img {
+  width: 20%;
+  padding: 20px 20px;
+}
+
+.skills-img {
+  width: 20%;
+  padding: 20px 20px;
+}
+
+.interest-img {
+  width: 20%;
+  padding: 20px 20px;
+}
+
+.personal-traits-img {
+  width: 20%;
+  padding: 20px 20px;
+}
+
+.paper-presentation-img {
+  width: 20%;
+  padding: 20px 20px;
+}
+
+
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #093c94 5%, #264569 100%);
+	background-color:#093c94;
+	border-radius:8px;
+	border:2px solid #0b3599;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:10px 27px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #264569 5%, #093c94 100%);
+	background-color:#264569;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 70px auto 70px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 40px 0;
+}
